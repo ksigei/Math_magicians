@@ -1,17 +1,14 @@
+import React from 'react';
 import Calculator from './components/Calculator';
 import Header from './components/Header';
+import './Styles.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header>
-        <Header />
-      </header>
-      <div>
-        <Calculator />
-      </div>
+const app = () => (
+  <div className="app">
+    <Header />
+    <div className="main">
+      <Calculator />
     </div>
-  );
-}
-
-export default App;
+  </div>
+);
+export default app;

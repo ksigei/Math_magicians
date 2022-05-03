@@ -15,7 +15,7 @@
 
 Clone the repo to your local machine.
 
-git clone https://github.com/ksigei/JS_ToDo.git
+git clone https://github.com/ksigei/math_magicians.git
 
 cd math_magicians
 
