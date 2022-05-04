@@ -1,0 +1,71 @@
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 5vh;
+}
+
+.operators_row {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  justify-content: flex-end;
+}
+
+.keypad {
+  width: 100%;
+  display: flex;
+}
+
+button {
+  border: 1px solid #2e2e2e2e;
+  width: 10vw;
+  height: 5vw;
+}
+
+.screen {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 20vh;
+  gap: 10vh;
+  background-color: rgb(238, 234, 230);
+}
+
+.input_screen {
+  width: 100%;
+  height: 1%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.input_rows {
+  display: flex;
+}
+
+/* .input_rows:last-child {
+  width: 30vw;
+} */
+
+.output_screen {
+  width: 100%;
+  height: 20%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width: 480px) {
+  button {
+    border: 1px solid #2e2e2e2e;
+    width: 20vw;
+    height: 15vw;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  button {
+    border: 1px solid #2e2e2e2e;
+    width: 8vw;
+    height: 4vw;
+  }
+}
