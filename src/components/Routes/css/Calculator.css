@@ -172,8 +172,6 @@ button {
     display: flex;
   }
 
-
-
   .operators:last-child > button {
     border-bottom-right-radius: 10px;
   }
