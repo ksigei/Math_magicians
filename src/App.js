@@ -19,35 +19,3 @@ const app = () => (
   </div>
 );
 export default app;
-// function Home() {
-//   return (
-//     <>
-//       <nav>
-//         <Link to="/">Home</Link>
-//         <Link to="/about">About</Link>
-//       </nav>
-//       <main>
-//         <h2>Welcome to the homepage!</h2>
-//         <p>You can do this, I believe in you.</p>
-//       </main>
-//     </>
-//   );
-// }
-
-// function About() {
-//   return (
-//     <>
-//       <nav>
-//         <Link to="/">Home</Link>
-//       </nav>
-//       <main>
-//         <h2>Who are we?</h2>
-//         <p>
-//           That feels like an existential question, don&lsquo;t you
-//           think?
-//         </p>
-//       </main>
-
-//     </>
-//   );
-// }
