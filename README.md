@@ -9,7 +9,7 @@
 
 ## Live Demo 
 
-[Heroku](https://ksigei.github.io/math_magicians/).\
+[Heroku](https://math-web.herokuapp.com/).\
 [Netlify](https://maths-web.netlify.app/)
 
 
