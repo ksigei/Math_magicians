@@ -9,7 +9,7 @@
 
 ## Live Demo (If available)
 
-[Live Demo Link](https://ksigei.github.io/math_magicians/)
+[Live Demo Link](https://math-web.herokuapp.com/calculator)
 
 ## Available Scripts
 
