@@ -9,7 +9,9 @@
 
 ## Live Demo (If available)
 
-[Live Demo Link](https://ksigei.github.io/math_magicians/)
+[Heroku](https://ksigei.github.io/math_magicians/)
+[Netlify](https://maths-web.netlify.app/)
+
 
 ## Available Scripts
 
