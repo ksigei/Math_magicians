@@ -7,7 +7,7 @@
 
 **This is an documentation of Math magicians**
 
-## Live Demo (If available)
+## Live Demo 
 
 [Heroku](https://ksigei.github.io/math_magicians/).\
 [Netlify](https://maths-web.netlify.app/)
